@@ -1,9 +1,7 @@
-virtuoso-load-csv
+virtuoso-load-csv.sh
 =================
 
 A shell script for uploading CSV files to WebDAV folders on a Virtuoso instance, and downloading the sponged RDF content as .rdf files.
-
-# virtuoso-load-csv.sh
 
 Script usage:
 	
